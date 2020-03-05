@@ -4,7 +4,6 @@
 #### Implemented Disjoit set to detect if each grid is connected [Union Find](Percolation/UnionFind.java)
 #### Percolation engin [Percolation](Percolation/Percolation.java)
 
-![1](https://raw.githubusercontent.com/yusong-yan/bearMap/master/BearMap/Screen%20Shot%202020-03-04%20at%209.45.35%20PM.png)
 ![2](https://raw.githubusercontent.com/yusong-yan/bearMap/master/BearMap/Screen%20Shot%202020-03-04%20at%209.48.42%20PM.png)
 ![3](https://raw.githubusercontent.com/yusong-yan/bearMap/master/BearMap/Screen%20Shot%202020-03-04%20at%209.49.02%20PM.png)
 ![4](https://raw.githubusercontent.com/yusong-yan/bearMap/master/BearMap/Screen%20Shot%202020-03-04%20at%209.44.46%20PM.png)
